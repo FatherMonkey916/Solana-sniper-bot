@@ -1,0 +1,17 @@
+PRIVATE_KEY=
+RPC_ENDPOINT=http://grpc.solanavibestation.com
+RPC_WEBSOCKET_ENDPOINT=wss://grpc.solanavibestation.com
+QUOTE_MINT=WSOL
+QUOTE_AMOUNT=0.01
+COMMITMENT_LEVEL=confirmed
+LOG_LEVEL=info
+CHECK_IF_IS_BURNED=false
+CHECK_IF_IS_LOCKED=false
+CHECK_IF_MINT_IS_RENOUNCED=false
+AUTO_SELL=false
+MAX_SELL_RETRIES=20
+AUTO_SELL_DELAY=50
+MIN_POOL_SIZE=0
+
+BLOCK_ENGINE_URL=ny.mainnet.block-engine.jito.wtf
+AUTH_KEYPAIR_PATH=./id-bundles.json
